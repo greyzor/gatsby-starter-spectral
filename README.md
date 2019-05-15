@@ -7,7 +7,7 @@ It has been inspired by the work from: github.com/codebushi and all here gatsby-
 
 ## Preview
 
-A demo is available here: gatsby-spectral-demo.surge.sh
+A demo is available here: [gatsby-spectral-demo.surge.sh](http://gatsby-spectral-demo.surge.sh)
 
 ## Installation
 
