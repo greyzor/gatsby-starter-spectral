@@ -1,7 +1,5 @@
 import React from 'react'
 
-import Footer from './Footer'
-
 class Header extends React.Component {
     render() {
         return (

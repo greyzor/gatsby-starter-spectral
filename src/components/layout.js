@@ -2,6 +2,7 @@ import React from 'react'
 import '../assets/sass/main.scss'
 
 import Header from './Header'
+import Footer from './Footer'
 
 class Template extends React.Component {
     render() {
@@ -11,6 +12,7 @@ class Template extends React.Component {
             <div>
                 <Header />
                 {children}
+                <Footer />
             </div>
         )
     }
