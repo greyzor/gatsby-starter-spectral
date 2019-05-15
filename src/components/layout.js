@@ -8,10 +8,10 @@ class Template extends React.Component {
         const { children } = this.props
 
         return (
-            <body className="landing is-preload">
+            <div>
                 <Header />
                 {children}
-            </body>
+            </div>
         )
     }
 }
